@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @santomi3112
-- 👀 I’m interested in null
-- 🌱 I’m currently learning null
-- 💞️ I’m looking to collaborate on null
-- 📫 How to reach me null
+<a href="https://wakatime.com/@9adf8800-386d-4fbf-814a-052c47e4aed9"><img src="https://wakatime.com/badge/user/9adf8800-386d-4fbf-814a-052c47e4aed9.svg" alt="Total time coded since Feb 5 2019" /></a>
 
 <!---
 santomi3112/santomi3112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
